@@ -8,4 +8,8 @@ class Animal
 		this.age = age;
 		this.name = name;
 	}
+	public Animal()
+	{
+		Console.WriteLine("Parent Animal");
+	}
 }
