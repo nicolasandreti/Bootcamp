@@ -25,6 +25,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Overriding", "Overriding\Ov
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MethodHiding", "MethodHiding\MethodHiding.csproj", "{C49D0145-462D-4A2B-8C47-656AD777AD81}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConstReadOnly", "ConstReadOnly\ConstReadOnly.csproj", "{5D8CC303-DBBA-4B28-B5F6-BB21171A4D5B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -74,6 +76,10 @@ Global
 		{C49D0145-462D-4A2B-8C47-656AD777AD81}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C49D0145-462D-4A2B-8C47-656AD777AD81}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C49D0145-462D-4A2B-8C47-656AD777AD81}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5D8CC303-DBBA-4B28-B5F6-BB21171A4D5B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5D8CC303-DBBA-4B28-B5F6-BB21171A4D5B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5D8CC303-DBBA-4B28-B5F6-BB21171A4D5B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5D8CC303-DBBA-4B28-B5F6-BB21171A4D5B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{916CAB7F-01AB-456F-A0D7-22FE10752EA1} = {916CAB7F-01AB-456F-A0D7-22FE10752EA1}
