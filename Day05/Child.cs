@@ -1,8 +1,8 @@
 class Child : Animal
 {
-	public Child(int age, string name)
+	string colour;
+	public Child(int age, string name, string colour) : base(age,name)
 	{
-		this.age = age;
-		this.name = name;
+		this.colour = colour;
 	}
 }
