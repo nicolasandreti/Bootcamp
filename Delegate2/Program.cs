@@ -40,7 +40,10 @@ class API
 }
 class Radio
 {
-	public void SendRadio(string messaage) {}
+	public void SendRadio(string message) 
+	{
+		Console.WriteLine("Radio " + message);
+	}
 }
 
 //The Delegate
