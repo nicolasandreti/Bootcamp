@@ -24,6 +24,6 @@ class Program{
 		Car carb = new Car(5500,11,"b");
 		Car carc = new Car(1000,11,"c");
 		Car carprice = car + carb + carc;
-		carprice.price.Dump();
+		Console.WriteLine(carprice.price);
 	}
 }
