@@ -1,4 +1,4 @@
-
+﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.0.31903.59
@@ -104,6 +104,12 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Action", "Action\Action.csproj", "{4C4B5CFA-FE9F-4651-9041-C92C5E4FB8A7}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Day07", "Day07", "{C33ABE7D-FA08-40A7-8369-6D88BC8B3719}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HashSet", "HashSet\HashSet.csproj", "{9E3B5C7E-6D0C-4D88-94CD-62124B0AEE93}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Queue", "Queue\Queue.csproj", "{87BA442D-3335-424C-8E68-3B4F41C51A38}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dictionary", "Dictionary\Dictionary.csproj", "{2FF848FE-70D7-4B78-9935-3B647D87B4D5}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -350,6 +356,18 @@ Global
 		{4C4B5CFA-FE9F-4651-9041-C92C5E4FB8A7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4C4B5CFA-FE9F-4651-9041-C92C5E4FB8A7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4C4B5CFA-FE9F-4651-9041-C92C5E4FB8A7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9E3B5C7E-6D0C-4D88-94CD-62124B0AEE93}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9E3B5C7E-6D0C-4D88-94CD-62124B0AEE93}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9E3B5C7E-6D0C-4D88-94CD-62124B0AEE93}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9E3B5C7E-6D0C-4D88-94CD-62124B0AEE93}.Release|Any CPU.Build.0 = Release|Any CPU
+		{87BA442D-3335-424C-8E68-3B4F41C51A38}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{87BA442D-3335-424C-8E68-3B4F41C51A38}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{87BA442D-3335-424C-8E68-3B4F41C51A38}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{87BA442D-3335-424C-8E68-3B4F41C51A38}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2FF848FE-70D7-4B78-9935-3B647D87B4D5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2FF848FE-70D7-4B78-9935-3B647D87B4D5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2FF848FE-70D7-4B78-9935-3B647D87B4D5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2FF848FE-70D7-4B78-9935-3B647D87B4D5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{3D0118E6-C291-4D4A-B631-0A2811860A83} = {C33ABE7D-FA08-40A7-8369-6D88BC8B3719}
