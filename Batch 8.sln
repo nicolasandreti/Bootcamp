@@ -1,4 +1,4 @@
-
+﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.0.31903.59
@@ -214,6 +214,16 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "H_FileInformation", "H_FileInformation\H_FileInformation.csproj", "{C7FC15A7-52BB-497C-BA61-7359F4B7F59E}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Day20", "Day20", "{77D4B93F-6E68-4BD1-9247-FC7F1EF166AC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "00_BinarySerialization", "00_BinarySerialization\00_BinarySerialization.csproj", "{4718B5F6-36F2-482D-B016-EBFB0C335387}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Testing_Log4net", "Testing_Log4net\Testing_Log4net.csproj", "{820C5580-B0E4-405F-926A-C17028E00E08}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Testing_NLog", "Testing_NLog\Testing_NLog.csproj", "{42F5ECF4-F8AE-4C31-BCD9-52A346775E03}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SQLiteTutorial", "SQLiteTutorial\SQLiteTutorial.csproj", "{CCF9AE0D-7876-41F2-8C4D-0DA582F5855C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodeFirstDatabase", "CodeFirstDatabase\CodeFirstDatabase.csproj", "{C1647F2A-D8F0-4E05-8093-79D33B41A98B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -664,6 +674,26 @@ Global
 		{C7FC15A7-52BB-497C-BA61-7359F4B7F59E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C7FC15A7-52BB-497C-BA61-7359F4B7F59E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C7FC15A7-52BB-497C-BA61-7359F4B7F59E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4718B5F6-36F2-482D-B016-EBFB0C335387}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4718B5F6-36F2-482D-B016-EBFB0C335387}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4718B5F6-36F2-482D-B016-EBFB0C335387}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4718B5F6-36F2-482D-B016-EBFB0C335387}.Release|Any CPU.Build.0 = Release|Any CPU
+		{820C5580-B0E4-405F-926A-C17028E00E08}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{820C5580-B0E4-405F-926A-C17028E00E08}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{820C5580-B0E4-405F-926A-C17028E00E08}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{820C5580-B0E4-405F-926A-C17028E00E08}.Release|Any CPU.Build.0 = Release|Any CPU
+		{42F5ECF4-F8AE-4C31-BCD9-52A346775E03}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{42F5ECF4-F8AE-4C31-BCD9-52A346775E03}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{42F5ECF4-F8AE-4C31-BCD9-52A346775E03}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{42F5ECF4-F8AE-4C31-BCD9-52A346775E03}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CCF9AE0D-7876-41F2-8C4D-0DA582F5855C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CCF9AE0D-7876-41F2-8C4D-0DA582F5855C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CCF9AE0D-7876-41F2-8C4D-0DA582F5855C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CCF9AE0D-7876-41F2-8C4D-0DA582F5855C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C1647F2A-D8F0-4E05-8093-79D33B41A98B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C1647F2A-D8F0-4E05-8093-79D33B41A98B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C1647F2A-D8F0-4E05-8093-79D33B41A98B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C1647F2A-D8F0-4E05-8093-79D33B41A98B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{C7FC15A7-52BB-497C-BA61-7359F4B7F59E} = {77D4B93F-6E68-4BD1-9247-FC7F1EF166AC}
